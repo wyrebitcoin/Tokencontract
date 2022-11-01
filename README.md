@@ -1,4 +1,4 @@
-$WyBTC is the governance token of ecosystem of WyreBitcoin.com. It is a deflationary token that distributes rewards to its holders for holding $WyBTC in their wallets.
+$WyBTC is the governance token of ecosystem of WyreBitcoin.com. It is a loyalty token that distributes rewards to its holders for holding $WyBTC in their wallets.
 
 Ownership (notyet)renounced.
 
